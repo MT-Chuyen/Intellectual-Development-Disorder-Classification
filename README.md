@@ -1,6 +1,7 @@
 # Intellectual-Development-Disorder-Classification
 
 Link to dataset: https://data.mendeley.com/datasets/fshy54ypyh/2
+
 In this repository I perform a test to classify IDD and TDC labels.
 
 The Machine leanring algorithm was reimplemented and achieved another conclusion like the sample paper
