@@ -1,4 +1,7 @@
 # Intellectual-Development-Disorder-Classification
+Description: A project to classify EEG using conventional Machine learning algorithms and Deep learning algorithms to compare performance
+
+Achievement: Although the results are overfitting when using large models in DL, ML algorithms show positive results
 
 Link to dataset: https://data.mendeley.com/datasets/fshy54ypyh/2
 
